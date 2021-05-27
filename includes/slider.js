@@ -1,4 +1,4 @@
-import { images } from '/data/images.js'
+import { images } from '../data/images.js'
 
 function Slider(){
     let template = '';
