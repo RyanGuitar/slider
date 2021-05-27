@@ -1,0 +1,14 @@
+.sticker-gallery {
+  width:180px;
+  height:180px;
+}
+div.scrollmenu {
+  height:240px;
+  overflow: auto;
+  white-space: nowrap;
+}
+div.scrollmenu div {
+  display: inline-block;
+}
+
+
