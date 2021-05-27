@@ -1,42 +1,42 @@
 export const images = [
     {
-        name:'/images/tie.webp',
+        name:'images/tie.webp',
         title:'Tie',
     },
     {
-        name:'/images/noah.webp',
+        name:'images/noah.webp',
         title:'Noah',
     },
     {
-        name:'/images/me.webp',
+        name:'images/me.webp',
         title:'me',
     },
     {
-        name:'/images/rye.webp',
+        name:'images/rye.webp',
         title:'rye',
     },
     {
-        name:'/images/lee.webp',
+        name:'images/lee.webp',
         title:'lee',
     },
     {
-        name:'/images/chew.webp',
+        name:'images/chew.webp',
         title:'chew',
     },
     {
-        name:'/images/cow.webp',
+        name:'images/cow.webp',
         title:'cow',
     },
     {
-        name:'/images/ivy.webp',
+        name:'images/ivy.webp',
         title:'ivy',
     },
     {
-        name:'/images/bee.webp',
+        name:'images/bee.webp',
         title:'bee',
     },
     {
-        name:'/images/dice.webp',
+        name:'images/dice.webp',
         title:'dice',
     },
 ]
